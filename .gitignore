@@ -1,0 +1,12 @@
+# 빌드 결과물 (Cloudflare 가 직접 빌드하므로 커밋하지 않음)
+site/
+
+# Obsidian 개인 작업 상태
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 기타
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
