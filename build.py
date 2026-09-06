@@ -12,7 +12,7 @@ import markdown, yaml
 
 ROOT = Path(__file__).parent
 OUT = ROOT / "site"
-SITE_NAME = "이름 들어갈 자리"          # 팀명 정해지면 여기만 바꾸면 됨
+SITE_NAME = "테크토닉"                  # 사이트 · 팀 이름
 GITHUB_REPO = "kimgaga07/mechmap"       # 저장소 바뀌면 여기만 바꾸면 됨
 
 # 과목 색 (순서대로 배정)

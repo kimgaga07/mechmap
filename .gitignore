@@ -10,3 +10,6 @@ __pycache__/
 *.pyc
 Thumbs.db
 .DS_Store
+
+# 필기 원본 (용량이 커서 저장소에 넣지 않음)
+_필기/
