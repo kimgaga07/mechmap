@@ -13,3 +13,6 @@ Thumbs.db
 
 # 필기 원본 (용량이 커서 저장소에 넣지 않음)
 _필기/
+
+# 협업 문서는 저장소에 포함한다 (제외하지 말 것)
+# SPEC.md AGENTS.md CLAUDE.md CODEX_LOG.md
