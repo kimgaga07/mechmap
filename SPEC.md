@@ -51,7 +51,7 @@ site/                          빌드 산출물. 매 빌드마다 삭제 후 재
 ## 1-1. git — Codex는 커밋도 푸시도 하지 않는다
 
 **이 저장소는 원격이 있고 Cloudflare Pages가 자동 배포한다.**
-`master` 에 푸시되는 순간 1~2분 뒤 공개 사이트 `https://tectonic.pages.dev` 가 바뀐다.
+`master` 에 푸시되는 순간 1~2분 뒤 공개 사이트 `https://mechmap.pages.dev` 가 바뀐다.
 검토 전 코드가 후배들이 보는 사이트에 올라간다는 뜻이다.
 
 ```
